@@ -1,5 +1,7 @@
 # Send Email from a *Static* HTML Form using Google Apps Mail!
 
+(forked from https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
+
 A ***Step-by-Step Example*** of using an **HTML Form** to send a "Contact Us" Message via Email without a Backend Server using a Google Script - No PHP, Python, Ruby, Java, Node.js etc.
 
 ## Why?
